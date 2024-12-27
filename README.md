@@ -1,6 +1,6 @@
 # Weather_analysis
 Project Overview :-
-  This project aims to analyze historical weather data to identify unusual temperature spikes and rainfall patterns over the past decade (2012-2022). By leveraging data analysis techniques, we aim to uncover insights that can contribute to understanding climate variability and its potential impacts.
+  This project aims to analyze historical weather data to identify unusual temperature spikes and rainfall patterns over the past decade. By leveraging data analysis techniques, we aim to uncover insights that can contribute to understanding climate variability and its potential impacts.
 
 Steps:-
 
@@ -28,7 +28,7 @@ Steps:-
      - Highlight temperature spikes on a line graph.
 
 Requirements:-
-- Python 3.x
+- Python 3 version
 - pandas
 - matplotlib
 - seaborn
